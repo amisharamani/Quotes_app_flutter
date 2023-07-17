@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+
+https://github.com/amisharamani/Quotes_app_flutter/assets/130687844/d530166b-916e-43a4-9be4-decae7bb6f2b
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
